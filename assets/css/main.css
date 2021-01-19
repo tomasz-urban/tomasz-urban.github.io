@@ -1141,7 +1141,7 @@ input, select, textarea {
 			transition-delay: 0.75s;
 			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/img1.jpg");
 			background-size: auto,
- 256px 256px;
+ 3000px 2000px;
 			background-position: center,
  center;
 			background-repeat: no-repeat,
