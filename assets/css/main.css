@@ -1107,11 +1107,7 @@ input, select, textarea {
 /* BG */
 
 	#bg {
-		-moz-transform: scale(0.5);
-		-webkit-transform: scale(0.5;
-		-ms-transform: scale(0.5);
-		transform: scale(0.5);
-		-webkit-backface-visibility: hidden;
+
 		position: fixed;
 		top: 0;
 		left: 0;
@@ -1120,9 +1116,7 @@ input, select, textarea {
 		z-index: 1;
 	}
 
-		#bg:before, {
-			content: '';
-
+		#bg: {
 			position: absolute;
 			top: 0;
 			left: 0;
@@ -1130,7 +1124,7 @@ input, select, textarea {
 			height: 100%;
 		}
 
-		#bg:before {
+		#bg: {
 			background-image: url("../../images/img3.jpg");
 			background-size: auto,
  256px 256px;
