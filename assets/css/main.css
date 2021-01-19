@@ -1107,10 +1107,10 @@ input, select, textarea {
 /* BG */
 
 	#bg {
-		-moz-transform: scale(1.0);
-		-webkit-transform: scale(1.0);
-		-ms-transform: scale(1.0);
-		transform: scale(1.0);
+		-moz-transform: scale(1.125);
+		-webkit-transform: scale(1.125);
+		-ms-transform: scale(1.125);
+		transform: scale(1.125);
 		-webkit-backface-visibility: hidden;
 		position: fixed;
 		top: 0;
